@@ -1,5 +1,9 @@
-## Hi there 👋
+## hii, im nivash
 
+Im working on some projects related to ml-implementations from scratch. currently undergrad at iit roorkee.
+
+email: nivash_k@me.iitr.ac.in
+site : [nivash.tech](https://nivash.tech)
 <!--
 **nivashkr/nivashkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
