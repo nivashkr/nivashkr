@@ -1,9 +1,9 @@
 ## hiiiee👋, im nivash
 
-## currently..Im working on some projects related to ml-implementations (from scratch). as of now im an undergrad at iit roorkee.
+**currently..Im working on some projects related to ml-implementations (from scratch). as of now im an undergrad at iit roorkee.**
 
-* nivash_k@me.iitr.ac.in
-* [nivash.tech](https://nivash.tech)
+- nivash_k@me.iitr.ac.in
+- [nivash.tech](https://nivash.tech)
 <!--
 **nivashkr/nivashkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
